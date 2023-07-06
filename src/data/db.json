@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Indie Hacker",
+		"categories": ["Community", "Newsletter"],
+		"pricing": "Free",
+		"description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
+		"external_link": "https://www.indiehackers.com/"
+	},
+	{
+		"name": "Hacker News",
+		"categories": ["Community"],
+		"pricing": "Free",
+		"description": "Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity.\"",
+		"external_link": "https://news.ycombinator.com/"
+	},
+	{
+		"name": "MicroConf",
+		"categories": ["Youtube"],
+		"pricing": "Free",
+		"description": "MicroConf is a community of SaaS founders that brings together bootstrapped and independently-funded B2B SaaS companies who are not looking to chase “unicorn status'' or venture capital.",
+		"external_link": "https://www.youtube.com/@MicroConf"
+	},
+	{
+		"name": "Simon Hoiberg",
+		"categories": ["Creator", "Youtube"],
+		"pricing": "Free",
+		"description": "Welcome to my little space here on YouTube! My name is Simon, and I run 3 SaaS products in the AI and No Code space.",
+		"external_link": "https://www.youtube.com/@SimonHoiberg"
+	},
+	{
+		"name": "What is Indie Maker?",
+		"categories": ["Website"],
+		"pricing": "Free",
+		"description": "An indie maker is an independent creator. They build projects with their own resources, often without funding, taking care of all aspects: development, design, marketing...",
+		"external_link": "https://www.whatisanindiemaker.com/"
+	},
+	{
+		"name": "Peter Levels",
+		"categories": ["Creator"],
+		"pricing": "",
+		"description": "Lots of advice on bootstrapping businesses if you dig between Pieter's multiple interests.",
+		"external_link": "https://twitter.com/levelsio"
+	},
+	{
+		"name": "Rob Wailling",
+		"categories": ["Creator"],
+		"pricing": "",
+		"description": "Rob Walling is a serial entrepreneur, author, podcaster, and angel investor.",
+		"external_link": "https://twitter.com/robwalling"
+	},
+	{
+		"name": "Tyler Tringas",
+		"categories": ["Creator"],
+		"pricing": "",
+		"description": "Tyler Tringas is an entrepreneur and venture capitalist known for his work in the startup ecosystem, particularly in the field of subscription-based businesses.",
+		"external_link": "https://twitter.com/tylertringas"
+	},
+	{
+		"name": "Arvid Kahl",
+		"categories": ["Creator"],
+		"pricing": "",
+		"description": "Arvid Kahl is a software engineer, entrepreneur, and writer.",
+		"external_link": "https://twitter.com/arvidkahl"
+	},
+	{
+		"name": "Micro Saas E-Book",
+		"categories": ["book"],
+		"pricing": "Free",
+		"description": "A e-book by Tyler Tringas about software as a service business owned and operated by one person or a small team.",
+		"external_link": "https://tylertringas.com/micro-saas-ebook/"
+	},
+	{
+		"name": "The $100 Startup",
+		"categories": ["Book"],
+		"pricing": "$",
+		"description": "Bestselling book by Chris Guillebeau that offers guidance and inspiration for aspiring entrepreneurs looking to start their own businesses with minimal financial resources.",
+		"external_link": "https://www.amazon.com/The-100-Startup-Chris-Guillebeau-audiobook/dp/B0081CDIGW/ref=sr_1_1?crid=31Q4ROTEQCJN0&keywords=%24100+startup&qid=1688466921&sprefix=100+startu%2Caps%2C381&sr=8-1"
+	},
+	{
+		"name": "The Lean Startup",
+		"categories": ["Book"],
+		"pricing": "$",
+		"description": " Book by Eric Ries that introduces a methodology for developing businesses and products through iterative experimentation, validated learning, and continuous adaptation to efficiently navigate the uncertainties of the startup world.",
+		"external_link": "https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8/ref=sr_1_1?crid=2IFFGP3IO80P2&keywords=lean+startup&qid=1688466988&s=audible&sprefix=lean+starttu%2Caudible%2C334&sr=1-1"
+	},
+	{
+		"name": "Start Small, Stay Small: A Developer's Guide to Launching a Startup",
+		"categories": ["Book"],
+		"pricing": "$",
+		"description": "Book by Rob Walling that provides practical advice and strategies specifically tailored for developers looking to create and grow successful software startups with a focus on sustainability and profitability.",
+		"external_link": "https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small"
+	},
+	{
+		"name": "Make",
+		"categories": ["Book"],
+		"pricing": "$",
+		"description": "The indie maker handbook by Pieter Levels, learn to build profitable startups the indie way.",
+		"external_link": "https://readmake.com/"
+	},
+	{
+		"name": "Just Fucking Ship by Amy Hoy",
+		"categories": ["Book"],
+		"pricing": "$",
+		"description": "Book by Amy Hoy that emphasizes the importance of overcoming perfectionism and taking action to launch products and projects, providing practical advice for getting ideas out into the world.",
+		"external_link": "https://stackingthebricks.com/just-fucking-ship"
+	},
+	{
+		"name": "Rework",
+		"categories": ["Book"],
+		"pricing": "$",
+		"description": "Rework is the perfect playbook by 37signals for anyone who’s ever dreamed of doing it on their own. Entrepreneurs, small-business owners, and artists who don’t want to starve will all find valuable guidance in these pages.",
+		"external_link": "https://basecamp.com/books/rework"
+	},
+	{
+		"name": "SaaS Roundup",
+		"categories": ["Newsletter"],
+		"pricing": "",
+		"description": "Curated resource that delivers regular updates and insights on the latest trends, news, and strategies in the Software as a Service (SaaS) industry to help professionals stay informed and make informed business decisions.",
+		"external_link": "https://chartmogul.com/resources/saas-roundup/"
+	},
+	{
+		"name": "Wizenguides",
+		"categories": ["Blog"],
+		"pricing": "Free",
+		"description": "Strategy founder guides for startups. Spend less time guessing and get back to building your startup with our tactical startup advice on marketing, product development, and more. Topics: cold email outreach, how to build a community, how to build in public on Twitter. how to interview customers.",
+		"external_link": "https://wizenguides.com/"
+	}
+]
