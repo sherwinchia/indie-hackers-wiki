@@ -40,6 +40,18 @@
 		if (browser) {
 			window.addEventListener('scroll', handleScroll)
 		}
+
+		let localTheme = localStorage.getItem('theme')
+		$theme = localTheme ? localTheme : 'light'
+		let root = document.getElementsByTagName('html')[0]
+
+		if ($theme === 'dark') {
+			$theme = 'dark'
+			root.classList.add('dark')
+		} else {
+			$theme = 'light'
+			root.classList.remove('dark')
+		}
 	})
 	onDestroy(() => {
 		if (browser) {
