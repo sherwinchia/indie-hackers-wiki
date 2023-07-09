@@ -124,5 +124,33 @@
 		"pricing": "Free",
 		"description": "Strategy founder guides for startups. Spend less time guessing and get back to building your startup with our tactical startup advice on marketing, product development, and more. Topics: cold email outreach, how to build a community, how to build in public on Twitter. how to interview customers.",
 		"external_link": "https://wizenguides.com/"
+	},
+	{
+		"name": "Notion",
+		"categories": ["Tool"],
+		"pricing": "Freemium",
+		"description": "Notion is a versatile productivity tool that combines note-taking, task management, and collaboration in one platform. With its customizable interface and extensive range of features, it empowers users to stay organized, work efficiently, and collaborate seamlessly.",
+		"external_link": "https://www.notion.so/"
+	},
+	{
+		"name": "Webflow",
+		"categories": ["Tool"],
+		"pricing": "Freemium",
+		"description": "Webflow is a powerful web design platform that enables users to create stunning, responsive websites without coding. Its intuitive drag-and-drop interface and visual editor allow users to design and customize every element of their websites. With advanced features like dynamic content, e-commerce integration, and SEO optimization, Webflow is a comprehensive solution for building professional websites.",
+		"external_link": "https://webflow.com/"
+	},
+	{
+		"name": "Framer",
+		"categories": ["Tool"],
+		"pricing": "Freemium",
+		"description": "Framer is a powerful design tool that empowers designers to create interactive, high-fidelity user interfaces. With an intuitive interface and robust animation capabilities, Framer brings ideas to life with realistic interactions and transitions. It offers a versatile range of design components, libraries, and integrations, enabling the creation of prototypes that closely resemble the final product. Framer also facilitates collaboration, making it a top choice for design teams and product development workflows.",
+		"external_link": "https://www.framer.com/"
+	},
+	{
+		"name": "Figma",
+		"categories": ["Tool"],
+		"pricing": "Freemium",
+		"description": "Figma is a collaborative design tool that streamlines the creation, iteration, and sharing of digital designs. With its cloud-based platform and real-time collaboration, teams can work together seamlessly. Figma offers an intuitive interface, powerful design capabilities, and features like responsive design and interactive components. It supports cross-platform compatibility, making it ideal for individual designers and design teams.",
+		"external_link": "https://www.figma.com/"
 	}
 ]
