@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 body {
-	@apply text-neutral-700 dark:text-neutral-300 bg-slate-100 dark:bg-slate-900;
+	@apply transition-colors text-neutral-700 dark:text-neutral-300 bg-slate-100 dark:bg-slate-900;
 }
 
 img {
