@@ -21,6 +21,20 @@
 		"external_link": "https://www.youtube.com/@MicroConf"
 	},
 	{
+		"name": "Dipen Maharjan",
+		"categories": ["Creator", "Youtube"],
+		"pricing": "Free",
+		"description": "I am an Indie Hacker building SpixApp and Luna Period Right now!",
+		"external_link": "https://www.dipenmaharjan.com.np"
+	},
+	{
+		"name": "Luna Period",
+		"categories": ["Website", "Newsletter"],
+		"pricing": "Free",
+		"description": "Luna helps you keeping track of your cycle, reminds you to take your pads/tampons and helps you analyse your period cycle.",
+		"external_link": "https://www.lunaperiod.com"
+	},
+	{
 		"name": "Simon Hoiberg",
 		"categories": ["Creator", "Youtube"],
 		"pricing": "Free",
